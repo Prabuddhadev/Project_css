@@ -1,0 +1,75 @@
+body
+{
+    background-color: bisque;
+}
+._1
+{
+    display: inline-block;
+    margin-left:400px;
+    font-size:50px;
+    margin-top: 150px;
+}
+#_2
+{   
+    margin-right:480px;
+    margin-left: 10px;
+    font-size:50px;
+    color: rgba(0, 0, 0, 0.387);
+    display: inline-block;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgba(0, 0, 0, 0.387);
+
+}
+#aa
+{
+    font-size:46px;
+    color: red;
+}
+.icon
+{
+    font-size:40px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-left: 25px;
+}
+._3
+{   display: flex;
+    flex-wrap:wrap;
+    margin-left: 370px;
+    height: 500px;
+    width: 1200px;
+    
+}
+._4
+{   margin: 30px;
+    height:350px;
+    width: 250px;
+    border: 1px solid red;
+    border-radius: 15px;
+    box-shadow: 5px 5px 8px #888888;
+    font-size:30px;
+    background-color: rgb(195, 255, 235);
+}
+._4_1
+{   color: rgb(233, 12, 12);
+    padding: 0px;
+    padding-left:50px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+._4_2{
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+._4_3
+{
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
